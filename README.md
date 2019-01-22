@@ -1,5 +1,5 @@
 # Adventure-Game-Little
-A short game written in java.
+A short game writed in java.
 
 This it's a little text game writed in java just just for fun and to practice java swing.
 The story of the the game it's very short and simple:
