@@ -1,7 +1,7 @@
 # Adventure-Game-Little
 A short game writed in java.
 
-This it's a little text game writed in java just just for fun and to practice java swing.
+This it's a little text game writed in java just for fun and to practice java swing.
 The story of the the game it's very short and simple:
 
 -  You are a stranger wolking on the Baktria ( Ancient Greek World ).
